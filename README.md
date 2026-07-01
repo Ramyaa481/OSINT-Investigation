@@ -29,7 +29,7 @@ The investigation collected publicly available information including domain regi
 
 ## Screenshots
 
-## 1. Target Selection
+##  Target Selection
 
 Selected **example.com** as the investigation target.
 
@@ -38,7 +38,7 @@ Selected **example.com** as the investigation target.
 ![Target Selection](screenshots/target-selection.png)
 
 
-## 2. Google Search
+##  Google Search
 
 Performed Google search using search operators.
 
