@@ -66,11 +66,17 @@ Reviewed and documented all collected information.
 ##  Screenshots
 
 target-selection.png 
+
 google-search.png
-whois.png 
+
+whois.png
+
 dns-records.png 
+
 github-search.png 
-social-media-search.png 
+
+social-media-search.png
+
 summary.png 
 
 
