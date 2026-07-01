@@ -32,28 +32,36 @@ This investigation focuses on collecting only publicly available information. No
 - Web Browser
 
 
-## 🔍 Investigation Methodology
+##  Investigation Methodology
 
-### 1. Target Selection
+###  Target Selection
+
 Selected **example.com** as the investigation target.
 
 ### Google Search
+
 Performed Google searches using search operators to find publicly available information.
 
 ###  WHOIS Lookup
+
 Collected domain registration details including registrar, creation date, expiration date, and name servers.
 
 ### DNS Records
+
 Analyzed DNS records such as A, NS, MX, and TXT records.
 
 ###  GitHub Search
+
 Searched GitHub for publicly available repositories related to the target.
 
 ###  Social Media Search
+
 Searched for publicly available social media information related to the target.
 
 ### Summary
+
 Reviewed and documented all collected information.
+
 
 ##  Screenshots
 
@@ -64,6 +72,7 @@ dns-records.png
 github-search.png 
 social-media-search.png 
 summary.png 
+
 
 ##  Findings
 
