@@ -92,6 +92,7 @@ Documented the investigation findings.
 
 ![Summary](screenshots/summary.png)
 
+
 ## Conclusion
 
 This project demonstrates the ethical collection and analysis of open-source intelligence using freely available tools. No unauthorized access or exploitation was performed.
