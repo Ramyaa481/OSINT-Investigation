@@ -1,60 +1,81 @@
-OSINT Investigation Report
+#  OSINT Investigation
 
-Title
+##  Title
 
 Open Source Intelligence (OSINT) Investigation
 
-Aim
+##  Aim
 
-To collect and analyze publicly available information about a target using ethical OSINT techniques.
+To perform an Open Source Intelligence (OSINT) investigation by collecting and analyzing publicly available information about a target using ethical methods.
 
-Target
 
-Target: example.com
+##  Target
 
-This domain was selected because it is safe and intended for educational purposes.
+**Target Domain:** `example.com`
 
-Scope
+The target was selected because it is a public domain intended for educational and testing purposes.
 
-This investigation collects only publicly available information. No unauthorized access or hacking was performed.
 
-Tools Used
-Google Search
-WHOIS Lookup
-DNS Checker
-GitHub Search
 
-Investigation Methodology
+##  Scope
 
- Selected the target domain.
+This investigation focuses on collecting only publicly available information. No unauthorized access, exploitation, or intrusive techniques were used.
 
- Searched the target using Google.
 
- Performed a WHOIS lookup to collect domain information.
 
- Checked DNS records.
+##  Tools Used
 
- Searched for public GitHub repositories.
+- Google Search
+- WHOIS Lookup
+- DNS Checker
+- GitHub Search
+- Web Browser
 
- Searched for publicly available social media information.
 
- Reviewed and summarized the collected information.
+## 🔍 Investigation Methodology
 
-Screenshots
+### 1. Target Selection
+Selected **example.com** as the investigation target.
 
-target-selection.png
+### Google Search
+Performed Google searches using search operators to find publicly available information.
+
+###  WHOIS Lookup
+Collected domain registration details including registrar, creation date, expiration date, and name servers.
+
+### DNS Records
+Analyzed DNS records such as A, NS, MX, and TXT records.
+
+###  GitHub Search
+Searched GitHub for publicly available repositories related to the target.
+
+###  Social Media Search
+Searched for publicly available social media information related to the target.
+
+### Summary
+Reviewed and documented all collected information.
+
+##  Screenshots
+
+target-selection.png 
 google-search.png
-whois.png
-dns-records.png
-github-search.png
-social-media-search.png
-summary.png
+whois.png 
+dns-records.png 
+github-search.png 
+social-media-search.png 
+summary.png 
 
-Findings
+##  Findings
 
-The investigation successfully collected public information about the target, including domain details, DNS records, and publicly available online information.
+- Collected publicly available domain information.
+- Identified domain registration details.
+- Analyzed DNS records.
+- Reviewed SSL certificate transparency logs.
+- Searched public GitHub repositories.
+- Gathered publicly available online references.
 
-Conclusion
 
-This project demonstrated how OSINT tools can be used to gather and analyze publicly available information in an ethical and legal manner.
-It improved my understanding of digital footprint analysis and OSINT techniques used in cybersecurity.
+##  Conclusion
+
+This project demonstrates the ethical use of Open Source Intelligence (OSINT) techniques to collect and analyze publicly available information. It enhanced practical knowledge of digital footprint analysis and cybersecurity investigation methods.
+
