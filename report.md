@@ -85,7 +85,6 @@ summary.png
 - Collected publicly available domain information.
 - Identified domain registration details.
 - Analyzed DNS records.
-- Reviewed SSL certificate transparency logs.
 - Searched public GitHub repositories.
 - Gathered publicly available online references.
 
